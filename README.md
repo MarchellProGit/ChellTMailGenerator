@@ -53,6 +53,15 @@ Built with a custom dark-mode desktop GUI and encrypted communication protocols,
 
 ---
 
+
+## Key Features
+
+- **[ ✦ ] Disposable Email Generation**: Instant creation of temporary email addresses for verification bypass.
+- **[ ✦ ] Automated Inbox Polling**: Real-time fetching of incoming emails and OTP codes.
+- **[ ✦ ] Multi-Domain Support**: Access to various temporary domains to evade blacklist filters.
+- **[ ✦ ] API Integration**: Seamless REST API communication with temporary email providers.
+
+---
 ## System Architecture
 
 ```
