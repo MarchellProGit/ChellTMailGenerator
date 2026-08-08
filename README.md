@@ -6,9 +6,6 @@
 ### Disposable Temp-Mail & Automated OTP Receiver
 **Author: Marchell Adi Pratama • ChellSpace Security Labs**
 
-[![Downloads](https://img.shields.io/github/downloads/MarchellProGit/ChellTMailGenerator/total?style=for-the-badge&color=00F0FF&logo=github&logoColor=white)](https://github.com/MarchellProGit/ChellTMailGenerator/releases)
-[![Visitors](https://komarev.com/ghpvc/?username=MarchellProGit-ChellTMailGenerator&color=0080FF&style=for-the-badge&label=VISITORS)](https://github.com/MarchellProGit/ChellTMailGenerator)
-[![Repo Size](https://img.shields.io/github/repo-size/MarchellProGit/ChellTMailGenerator?style=for-the-badge&color=38BDF8)](https://github.com/MarchellProGit/ChellTMailGenerator)
 [![Build](https://img.shields.io/badge/Build-v1.0.0--PROD-00ff41?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MarchellProGit/ChellTMailGenerator/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11_x64-38BDF8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/MarchellProGit/ChellTMailGenerator/releases)
 [![License](https://img.shields.io/badge/License-Proprietary_EULA-EAB308?style=for-the-badge&logo=shield&logoColor=white)](#terms-of-service--license)
